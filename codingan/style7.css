@@ -1,0 +1,30 @@
+body {
+    background-color: cyan;
+    background-repeat: repeat-x;
+}
+
+.wrap {
+    width: 40%;
+    margin: auto;
+    color: white;
+    border-radius: 10px;
+    font-family: comic sans ms;
+    background-color: black;
+}
+
+.container{
+    padding: 5px;
+}
+table{
+    margin: auto;
+}
+table td{
+    padding: 5px;
+}
+button{
+    width: 65px;
+     font-family: comic sans ms ;
+     height: 40px;
+     background-color: black;
+     border-radius: 7px;
+}
